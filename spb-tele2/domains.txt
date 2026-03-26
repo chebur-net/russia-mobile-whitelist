@@ -29,6 +29,7 @@ digital.gov.ru
 dixy.ru
 dnevnik.ru
 dns-shop.ru
+domain
 domashniy.ru
 drom.ru
 dzen.ru
@@ -43,6 +44,7 @@ gazprombank.ru
 getcourse.ru
 goldapple.ru
 goskey.ru
+gosuslugi.ru
 grandtrain.ru
 habr.com
 hh.ru
